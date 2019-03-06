@@ -1,38 +1,24 @@
-<!DOCTYPE html>
-<html lang="en-us">
-        <meta charset="UTF-8">
-   <head>
-        <title>Homework 1</title>
-        <link rel="stylesheet" type="text/css" href="style.css">
-    </head>
-    <body>
-        <header>
-            <h1>header</h1>
-        </header>
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: '960px';
+    font-size: '18px';
+  }
 
-        <header>
-        <h1>nav</h1>
-        </header>
+header {
+    background: #777;   
+}
 
-        <div>
-            <section> 
-            <h1>section</h1>
-            <h1>article</h1>
-            <h1>
-                h1, h2, h3
-            </h1>
-            <h1>p</h1>
-            </section>
-
-            <section>
-                <h1>aside</h1>
-            </section>
-
-            <section>
-                <h1>footer</h1>
-            </section>
-        </div>
-
-
-    </body>
-</html>
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #ebebeb;
+    text-align: center;
+    background: grey;
+  }
+  
