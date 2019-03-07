@@ -16,9 +16,13 @@ h1 {
     padding: 20px 0;
     margin: 0;
     margin-bottom: 20px;
-    font-size: 28px;
+    font-size: 49px;
     color: #ebebeb;
     text-align: center;
     background: grey;
-  }
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    line-height: 3em;
+    letter-spacing: 6mm;
+}
   
