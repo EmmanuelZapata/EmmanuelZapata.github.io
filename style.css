@@ -8,8 +8,19 @@ body {
     font-size: '18px';
   }
 
-header {
-    background: #777;   
+.same {
+    background-color: #DC7633; 
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 49px;
+    color: #ebebeb;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+    line-height: 3em;
+    letter-spacing: 6mm;
+
 }
 
 h1 {
@@ -26,10 +37,3 @@ h1 {
     letter-spacing: 6mm;
 }
 
-.fun {
-
-}
-
-  #fun3 {
-      
-  }
