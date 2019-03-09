@@ -72,7 +72,7 @@ background: #ebebeb;
 }
 .article-body {
     overflow: auto;
-    background-color: red;
+    background-color: #777;
 }
 #transparent {
     color: #ebebeb;
