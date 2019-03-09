@@ -23,7 +23,7 @@ body {
 
 }
 
-h1 {
+h1, p {
     padding: 20px 0;
     margin: 0;
     margin-bottom: 20px;
@@ -36,4 +36,3 @@ h1 {
     line-height: 3em;
     letter-spacing: 6mm;
 }
-
