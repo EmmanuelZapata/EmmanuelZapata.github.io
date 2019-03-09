@@ -1,3 +1,3 @@
 # EmmanuelZapata.github.io
 
-This is Emmanuel's first git hub project for class.
+This is Emmanuel's first github project for class.
